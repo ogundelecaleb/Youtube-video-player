@@ -1,0 +1,25 @@
+.wrapper {
+    background-color: black;
+}
+.details {
+    background: white;
+}
+
+.list {
+    background: white;
+}
+.box {
+    border-radius: 5px;
+}
+.grid-wrap {
+    
+    padding: 1rem 0;
+    
+}
+
+
+@media(max-width: 900px) {
+    .video-item{
+        display: inline-block !important;
+    }
+}
